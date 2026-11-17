@@ -13,6 +13,7 @@ variable "Security_Group"{
 
 }
 
+
 variable "AMIS"{
   type = map
   default = {
